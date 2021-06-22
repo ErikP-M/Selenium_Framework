@@ -15,3 +15,9 @@ class Credentials:
     NAME = "Jane"
     LAST_NAME = "Doe"
     ZIP_CODE = "48540"
+
+
+class TextStr:
+    FAILED_TXT = "Test case FAILED"
+    SUCCESS_LOGIN_TXT = "PRODUCTS"
+    INVALID_USR_TXT = "Epic sadface: Username and password do not match any user in this service"
